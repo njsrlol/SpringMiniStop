@@ -8,7 +8,7 @@
 <head>
   <meta charset="UTF-8">
   <title>mainPage</title>
-<!-- ㅎㅇ -->
+<!-- ㅎㅇㅎㅇ -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 <link rel="stylesheet" href="${pageContext.request.contextPath}/Products/css/mainstyle.css">
 <link rel="stylesheet" href="${pageContext.request.contextPath}/Products/css/style.css">
